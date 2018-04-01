@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contributions List
-permalink: /Contributions/
+permalink: /contributions/
 ---
 
 ### Total: 1X
