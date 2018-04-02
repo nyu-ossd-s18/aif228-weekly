@@ -3,7 +3,7 @@ layout: page
 title: Contributions List
 ---
 
-### Total: 19
+*Total number of contributions: **19***
 
 | Week # | Contribution                                                                             | Contribution Type  |
 | ------ |----------------------------------------------------------------------------------------- | ------------------ |
