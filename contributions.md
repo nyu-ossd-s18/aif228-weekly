@@ -6,7 +6,7 @@ title: Contributions List
 ### Total: 19
 
 | Week # | Contribution                                                                             | Contribution Type  |
-| ------ |:--------------------------------------------------------------------------------------: | :----------------- |
+| ------ |-------------------------------------------------------------------------------------- | :----------------- |
 | 3      | Edited [Zander](https://en.wikipedia.org/wiki/Special:Contributions/Zadner) page         | Wikipedia          |
 | 3      | Reported [issue #15](https://github.com/joannakl/cs480_s18/issues/15)                    | Course Website     |
 | 3      | Commented on [issue #12](https://github.com/joannakl/cs480_s18/issues/12)                | Course Website     |
