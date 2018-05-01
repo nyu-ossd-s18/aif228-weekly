@@ -5,6 +5,7 @@ title: Contributions List
 
 *Total number of contributions: **20***
 
+
 | **Week #** | **Contribution**                                                                     | **Contribution Type**  |
 | :----- | :---------------------------------------------------------------------------------------- | :----------------- |
 | 3      | Edited [Zander](https://en.wikipedia.org/wiki/Special:Contributions/Zadner) entry         | Wikipedia          |
