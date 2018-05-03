@@ -26,4 +26,4 @@ title: Contributions List
 | 6  | Updated [oral surgeon](https://www.openstreetmap.org/user/zadner/history) entry           | OpenStreetMap  |
 | 7  | Began using [Firefox Nightly](https://www.mozilla.org/en-US/firefox/61.0a1/releasenotes/) | Other          |
 | 9  | Reported [issue #14176](https://github.com/adobe/brackets/issues/14176)                   | Other          |
-| 11 | Thumbs-upped this [feature suggestion](https://github.com/adobe/brackets/issues/14246)    | Other          |
+| 11 | Thumbs-upped this [suggestion](https://github.com/adobe/brackets/issues/14246)    | Other          |
